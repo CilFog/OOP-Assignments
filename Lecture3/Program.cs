@@ -1,4 +1,5 @@
 ﻿using System;
+using Lecture3.Classes;
 
 namespace Lecture3
 {
@@ -6,7 +7,7 @@ namespace Lecture3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
