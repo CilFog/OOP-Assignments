@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture1", "Lecture1\Lecture1.csproj", "{BDF888BB-19CC-401D-B885-EE4200E72B4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture2", "Lecture2\Lecture2.csproj", "{D5902713-D959-4F35-96EF-3D4E439BD342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture3", "Lecture3\Lecture3.csproj", "{A531E802-20A4-4F96-B614-E4EF7E8BD04A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF888BB-19CC-401D-B885-EE4200E72B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF888BB-19CC-401D-B885-EE4200E72B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF888BB-19CC-401D-B885-EE4200E72B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF888BB-19CC-401D-B885-EE4200E72B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5902713-D959-4F35-96EF-3D4E439BD342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5902713-D959-4F35-96EF-3D4E439BD342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5902713-D959-4F35-96EF-3D4E439BD342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5902713-D959-4F35-96EF-3D4E439BD342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A531E802-20A4-4F96-B614-E4EF7E8BD04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A531E802-20A4-4F96-B614-E4EF7E8BD04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A531E802-20A4-4F96-B614-E4EF7E8BD04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A531E802-20A4-4F96-B614-E4EF7E8BD04A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
