@@ -7,8 +7,7 @@ namespace Lecture1
     {
         static void Main(string[] args)
         {
-            Person person = new Person("Cecilie", "Fog", 21);
-            Console.WriteLine(person.Firstname);
+
         }
     }
 }
