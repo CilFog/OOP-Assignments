@@ -25,14 +25,14 @@ namespace MiniProject.Classes
 
         public void Start()
         {
-            _running = true;
+            Running = true;
 
             DrawMenu();
             do
             {
                 HandleInput();
 
-            } while (_running == true);
+            } while (Running == true);
 
         }
 
@@ -71,7 +71,7 @@ namespace MiniProject.Classes
             switch (input.Key)
             {
                 case ConsoleKey.Escape:
-                    _running = false;
+                    Running = false;
                     break;
 
                 case ConsoleKey.UpArrow:
