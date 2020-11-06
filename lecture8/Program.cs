@@ -1,4 +1,5 @@
 ﻿using System;
+using lecture8.Classes;
 
 namespace lecture8
 {
@@ -6,7 +7,9 @@ namespace lecture8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Circle circle = new Circle(new CircleCenter(0, 0), 10);
+            Console.WriteLine($"The radius of the circle is {circle.Radius}");
+            Console.WriteLine($"The center of the circle is ({circle.Center.X}, {circle.Center.Y})");
         }
     }
 }
