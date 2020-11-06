@@ -50,8 +50,6 @@ namespace MiniProject.Classes
                 {
                     Console.BackgroundColor = ConsoleColor.Gray;
                     Console.WriteLine(MenuItemList[item].Title);
-
-
                 }
                 else
                 {
@@ -65,7 +63,6 @@ namespace MiniProject.Classes
 
         public void HandleInput()
         {
-
             ConsoleKeyInfo input = Console.ReadKey();    
 
             switch (input.Key)
@@ -116,6 +113,5 @@ namespace MiniProject.Classes
                     break;
             }
         }
-
     }
 }
