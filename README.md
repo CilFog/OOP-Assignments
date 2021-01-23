@@ -1,2 +1,2 @@
 # OOP-Lectures
-Assignments mate in OOP-Lectures
+Assignments made in OOP-Lectures
